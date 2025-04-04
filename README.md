@@ -15,4 +15,6 @@ The goal is to create an immersive VR environment that simulates public speaking
 
 This specific repository focuses on the **stress prediction component** of the VR headset. It utilizes Convolutional Neural Networks (CNNs) to analyse the users speech and predict the speaker's stress level based on the presence and intensity of **Neutral** and **Fear** categories.
 
+The code used to find the final model can be found in Emotions-FandN.ipynb
+
 # The code represents the effort and intellectual property of Ruth Amey. As an ethical principle, please respect this ownership and refrain from using, copying, or distributing this code without explicit permission.
